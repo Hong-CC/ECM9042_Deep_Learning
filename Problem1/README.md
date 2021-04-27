@@ -3,7 +3,7 @@
 
 ## Description
 
-Please read [this](https://github.com/Hong-CC/ECM9042-Deep-Learning/blob/main/Problem1/DL_HW1.pdf).
+Please read [this](https://github.com/Hong-CC/ECM9042_Deep_Learning/blob/main/Problem1/DL_HW1.pdf).
 
 ## Dataset
 

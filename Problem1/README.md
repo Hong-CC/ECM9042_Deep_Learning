@@ -9,8 +9,6 @@ Please read [this](https://github.com/Hong-CC/ECM9042_Deep_Learning/blob/main/Pr
 
 You can find the dataset [here](https://github.com/bat67/TibetanMNIST).
 
-## Question 1
-
 ### i.
 此小題使用的架構如下：
 

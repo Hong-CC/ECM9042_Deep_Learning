@@ -18,8 +18,8 @@ Homework of Deep Learning Course at NCTU
     - Task: Recognition if people wearing medical mask.
     - Implement the forward computation with Tensorflow.
 - Homework 2:
-  - Problem 3: RNN for Classification
+  - [Problem 3](https://github.com/Hong-CC/ECM9042_Deep_Learning/tree/main/Problem3): RNN for Classification
     - Task: Classify if the number of confirmed people will increase in the next day.
     - Implement the forward computation with Tensorflow. 
-  - Problem 4: VAE for Image Generation.
+  - [Problem 4](https://github.com/Hong-CC/ECM9042_Deep_Learning/tree/main/Problem4): VAE for Image Generation.
     - Task: Image reconstruct by the animation faces dataset here.
